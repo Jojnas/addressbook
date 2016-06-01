@@ -1,0 +1,17 @@
+{
+  "name": "addressbook",
+  "version": "1.0.0",
+  "description": "first one in ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jojnas",
+  "license": "ISC",
+  "devDependencies": {
+  	"gulp": "*",
+  	"babel-core": "*",
+  	"babel-preset-es2015": "*",
+  	"gulp-babel": "*"
+  }
+}
